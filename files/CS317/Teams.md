@@ -12,7 +12,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 
 ## CS317 Teams
 
-#### Team 1 Team Name Submit via PR
+#### Team 1 Scrum And Coke
 
 - Justin Brakob
 - Andrew Breyen
